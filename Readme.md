@@ -1,6 +1,6 @@
 # 💻 Sobre
 
-O objetivo aqui é ter salvo todas as etapas percorridas no processo de aprendizagem do Front-End!
+O objetivo aqui é ter salvo as etapas percorridas no processo de aprendizagem do Front-End!
 
 
 <br/>
